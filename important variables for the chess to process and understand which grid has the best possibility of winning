@@ -2,8 +2,7 @@
 import pygame, chess
 
 # Display Window
-ID_TECH_TITLE = "iD Tech: Python Chess"
-ID_TECH_LOGO = pygame.image.load('logos/idtech_logo_ipc.png')
+ID_TECH_TITLE = "Python Chess"
 
 # Board Colors
 LIGHT_COLOR = pygame.Color('#B70A0A')
