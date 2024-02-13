@@ -22,11 +22,11 @@ pygame.display.set_icon(G.ID_TECH_LOGO)
 
 # Load Chess Game Pieces
 w_king_img = pygame.image.load('images/w_king.png')
-w_queen_img = pygame.image.load('images/the hacker8 sword.png')
+w_queen_img = pygame.image.load('images/w_queen.png')
 w_bishop_img = pygame.image.load('images/w_bishop.png')
 w_knight_img = pygame.image.load('images/w_knight.png')
 w_rook_img = pygame.image.load('images/w_rook.png')
-w_pawn_img = pygame.image.load('images/New Piskel.gif')
+w_pawn_img = pygame.image.load('images/w_pawn.png')
 b_king_img = pygame.image.load('images/b_king.png')
 b_queen_img = pygame.image.load('images/b_queen.png')
 b_bishop_img = pygame.image.load('images/b_bishop.png')
